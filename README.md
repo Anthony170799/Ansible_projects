@@ -107,7 +107,7 @@ tomcat_group: "tomcat"
 
 ---
 
-## ✅ Tested On
+## ✅ Tested On.
 
 - Ubuntu 20.04/22.04 EC2 instance
 - Ansible 2.9+ / 2.12+
